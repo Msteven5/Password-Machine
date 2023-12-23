@@ -10,5 +10,6 @@ Here is link to the deployed application:
 
 https://msteven5.github.io/Password-Machine/
 
+All coding used in this project done by myself (save for the starter code provided by UTA for this project), however some coding found in the JavaScript file was found on https://tecadmin.net/generate-random-string-in-javascript/ and adapted to be used within my code to provide the functionality needed. This code is found on lines 14-22 and repeated 3 more times throughout the code.
 
 Thank you, and enjoy!
