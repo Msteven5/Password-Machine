@@ -8,6 +8,7 @@ I have attached the website's complete layout here to view before accessing the 
 Here is link to the deployed application: 
 
 
+https://msteven5.github.io/Password-Machine/
 
 
 Thank you, and enjoy!
