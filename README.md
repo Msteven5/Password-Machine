@@ -3,6 +3,8 @@ This project was a brain teaser exercize to allow me to think outside of the box
 I have attached the website's complete layout here to view before accessing the application:
 
 
+![msteven5 github io_Password-Machine_](https://github.com/Msteven5/Password-Machine/assets/153029688/58c75e1a-c7a2-46ac-881e-e955bf9bdde8)
+
 
 
 Here is link to the deployed application: 
